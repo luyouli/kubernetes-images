@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.12.9
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.14.2
 MAINTAINER www.luyouli.com
