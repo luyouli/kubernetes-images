@@ -1,2 +1,2 @@
-FROM docker.io/library/rockylinux:9.3
+FROM rockylinux/rockylinux:9.4
 MAINTAINER www.luyouli.com
