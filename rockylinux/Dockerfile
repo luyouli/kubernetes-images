@@ -1,2 +1,2 @@
-FROM rockylinux/rockylinux:9.6
+FROM rockylinux/rockylinux:10
 MAINTAINER www.luyouli.com
