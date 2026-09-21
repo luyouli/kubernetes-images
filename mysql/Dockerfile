@@ -1,2 +1,2 @@
-FROM mysql:9.7.1
+FROM mysql:9.7.2
 MAINTAINER www.luyouli.com
